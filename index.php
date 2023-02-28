@@ -1,0 +1,5 @@
+<?php
+
+echo "INSCRIPCIÓN EN VENTANILLA VIRTUAL DE LA FIEE"
+
+?>
